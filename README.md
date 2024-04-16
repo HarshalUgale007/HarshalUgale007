@@ -14,7 +14,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=HarshalUgale007&label=1657&color=0&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HarshalUgale007&label=1657&color=0&pretty=true" />
-</a>
